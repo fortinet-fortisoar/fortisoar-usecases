@@ -6,11 +6,12 @@ Welcome to the FortiSOAR usecase playbook library! Here, we provide a variety of
 
 We have organized our examples into the following categories:
 
-- [SOC Usecases](./docs/alert-investigation.md)
-- [Case Management Usecases](./docs/case-management.md)
-- [Threat Intelligence Usecases](./docs/threat-intelligence.md)
-- [IT/OT Usecases](./docs/threat-intelligence.md)
-- [Compliance Usecases](./docs/threat-intelligence.md)
+- [SOC Usecases](./docs/soc-usecases.md)
+- [Case Management Usecases](./docs/case-management-usecases.md)
+- [Threat Intelligence Usecases](./docs/threat-intelligence-usecases.md)
+- [IT/OT Usecases](./docs/itot-usecases.md)
+- [Compliance Usecases](./docs/compliance-usecases.md)
+- [Miscellaneous](./docs/miscellaneous.md)
   
 
 ![Build Your Content Logo](./docs/res/build-it-yourself.png)
