@@ -1,5 +1,4 @@
 | [Home](../README.md) |
 |----------------------|
 
-# Case Management
-
+# Case Management Usecases
