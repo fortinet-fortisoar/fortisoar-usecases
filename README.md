@@ -1,4 +1,3 @@
-![FortiSOAR Banner](./docs/res/fortiai-banner.jpg)
 
 # FortiSOAR Usecase Playbooks Library
 
@@ -7,11 +6,11 @@ Welcome to the FortiSOAR usecase playbook library! Here, we provide a variety of
 
 We have organized our examples into the following categories:
 
-- [Alert Investigation](./docs/alert-investigation.md)
-- [Incident Investigation](./docs/incident-investigation.md)
-- [Playbook Generation](./docs/playbook-generation.md)
-- [Case Management](./docs/case-management.md)
-- [Threat Intelligence](./docs/threat-intelligence.md)
+- [SOC Usecases](./docs/alert-investigation.md)
+- [Case Management Usecases](./docs/case-management.md)
+- [Threat Intelligence Usecases](./docs/threat-intelligence.md)
+- [IT/OT Usecases](./docs/threat-intelligence.md)
+- [Compliance Usecases](./docs/threat-intelligence.md)
   
 
 ![Build Your Content Logo](./docs/res/build-it-yourself.png)
