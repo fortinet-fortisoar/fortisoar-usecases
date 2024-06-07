@@ -1,5 +1,5 @@
 | [Home](../README.md) |
 |----------------------|
 
-# Incident Investigation
+# Threat Intelligence Usecases
 
