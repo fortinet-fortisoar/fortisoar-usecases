@@ -1,7 +1,7 @@
 
-# FortiSOAR Usecase Playbooks Library
+# FortiSOAR Usecases Library
 
-Welcome to the FortiSOAR usecase playbook library! Here, we provide a variety of examples to demonstrate different SOC usecases. These workflows can be used to automate your day to to day tasks and also accomplish different security tasks within FortiSOAR. Our examples showcase how specific playboks can be utilized to perform a range of tasks. This space is designed for collaboration, where cybersecurity experts can learn from the examples and contribute their expertise.
+Welcome to the FortiSOAR usecases library! Here, we provide a variety of examples to demonstrate different SOC usecases. These workflows can be used to automate your day to to day tasks and also accomplish different security tasks within FortiSOAR. Our examples showcase how specific playboks can be utilized to perform a range of tasks. This space is designed for collaboration, where cybersecurity experts can learn from the examples and contribute their expertise.
 
 
 We have organized our examples into the following categories:
@@ -11,6 +11,7 @@ We have organized our examples into the following categories:
 - [Threat Intelligence Usecases](./docs/threat-intelligence-usecases.md)
 - [IT/OT Usecases](./docs/itot-usecases.md)
 - [Compliance Usecases](./docs/compliance-usecases.md)
+- [Categorized by Industry](./docs/categorized-by-industry-usecases.md)
 - [Miscellaneous](./docs/miscellaneous.md)
   
 
