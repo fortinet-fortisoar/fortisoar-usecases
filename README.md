@@ -19,5 +19,5 @@ We have organized our examples into the following categories:
 [Visit our GitHub page for more details](https://github.com/fortinet-fortisoar/how-tos) 
 
 
-**Disclaimer**: These are sample prompts and are subject to change
+**Disclaimer**: Some of these FortiSOAR usecases are also contributed by FortiSOAR community and are subject to change
 ***
