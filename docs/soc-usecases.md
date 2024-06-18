@@ -1,4 +1,10 @@
 | [Home](../README.md) |
 |----------------------|
 
-# SOC Usecases
+# Security Operations Center (SOC) Usecases
+
+
+
+
+- [Incident Response Usecases](./docs/incident-response-usecases.md)
+- 
