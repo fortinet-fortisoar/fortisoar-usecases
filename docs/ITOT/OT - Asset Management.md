@@ -1,5 +1,6 @@
-| [Home](../README.md) |  
-|----------------------|
+| [Home](../../README.md) |  [Back](../itot-usecases.md) | 
+|----------------------|---------------------|
+
 
 
 # OT - Asset Management Use Cases
