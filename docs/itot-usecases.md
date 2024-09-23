@@ -1,9 +1,6 @@
 | [Home](../README.md) |
 |----------------------|
 
-| [Home](../docs/ITOT/OT - Vulnerability Management Use Cases.md) |
-|----------------------|
-
 
 # IT/OT Use Cases
 
