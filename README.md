@@ -13,6 +13,10 @@ We have organized our examples into the following categories:
 - [Compliance Usecases](./docs/compliance-usecases.md)
 - [Categorized by Industry](./docs/categorized-by-industry-usecases.md)
 - [Miscellaneous](./docs/miscellaneous.md)
+
+
+- [All Use cases](./docs/usecases-index.md)
+
   
 
 ![Build Your Content Logo](./docs/res/build-it-yourself.png)
