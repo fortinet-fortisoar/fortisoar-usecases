@@ -6,11 +6,11 @@ Welcome to the FortiSOAR usecases library! Here, we provide a variety of example
 
 We have organized our examples into the following categories:
 
-- [SOC Usecases](./docs/soc-usecases.md)
-- [Case Management Usecases](./docs/case-management-usecases.md)
-- [Threat Intelligence Usecases](./docs/threat-intelligence-usecases.md)
-- [IT/OT Usecases](./docs/itot-usecases.md)
-- [Compliance Usecases](./docs/compliance-usecases.md)
+- [SOC Use cases](./docs/soc-usecases.md)
+- [Case Management Use cases](./docs/case-management-usecases.md)
+- [Threat Intelligence Use cases](./docs/threat-intelligence-usecases.md)
+- [IT/OT Use cases](./docs/itot-usecases.md)
+- [Compliance Use cases](./docs/compliance-usecases.md)
 - [Categorized by Industry](./docs/categorized-by-industry-usecases.md)
 - [Miscellaneous](./docs/miscellaneous.md)
 
