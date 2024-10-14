@@ -10,3 +10,4 @@
 |:----|:-------------------------------------------------------|--|--|--|--|
 |01| Phishing Investigation & Response                         |  TBD | Phishing | Phishing | [More Details](./phishing-email-usecase.md) | 
 |02| IT/OT                         |  TBD | ITOT | ITOT | [More Details](./itot-usecase.md) | 
+|03| Threat Intelligence           |  TBD | Threat Intel Management | TIM | [More Details](./threat-intelligence-usecases.md) |
