@@ -2,7 +2,7 @@
 | [Home](../README.md) |
 |----------------------|
 
-# All Supported Use cases
+# All Supported Usecases
 
 
 
