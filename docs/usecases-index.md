@@ -2,7 +2,7 @@
 | [Home](../README.md) |
 |----------------------|
 
-# All Supported Usecases
+# Usecases Powered by FortiSOAR
 
 
 
